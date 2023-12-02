@@ -1,0 +1,16 @@
+---
+title: "Road-Aware SDN Enabled Routing for the Internet of Vehicles (SD-IoV)"
+collection: projects
+permalink: /projects/road-aware-sdn-enabled-routing
+excerpt: "Proposing an optimal routing protocol for the internet of vehicles with low overhead has proven difficult due to the current architecture's inability to manage flexibility and scalability. As a result, the proposed architecture consolidates an evolving network standard known as software defined networking in the internet of vehicles. By separating the data plane from the control plane, it is able to handle highly dynamic networks in an abstract manner. The road-aware routing strategy is introduced first, which is a performance-enhanced routing protocol designed specifically for infrastructureassisted vehicular networks. Roads are divided into road segments, and roadside units are used for multi-hop communication. The proposed protocol is unique in that it uses the cellular network to relay control messages to and from the controller with low latency. To achieve a real-time vehicle topology, the concept of edge controller is introduced as the operational backbone of the vehicle grid in the internet of vehicles. Last but not least, a novel mathematical model is estimated to assist the primary controller in finding not only the shortest but also the most durable path. The results demonstrate the proposed protocol's significant performance in terms of availability with minimal routing overhead. Furthermore, we discovered that the edge controller is primarily responsible for reducing network path failure."
+date: 2022-06-12
+venue: 'Mobile Computing'
+paperurl: 'http://ydelvis.github.io/files/performance-analysis-of-standard-ecc-curves.pdf'
+
+---
+**Abstract**
+> Proposing an optimal routing protocol for the internet of vehicles with low overhead has proven difficult due to the current architecture's inability to manage flexibility and scalability. As a result, the proposed architecture consolidates an evolving network standard known as software defined networking in the internet of vehicles. By separating the data plane from the control plane, it is able to handle highly dynamic networks in an abstract manner. The road-aware routing strategy is introduced first, which is a performance-enhanced routing protocol designed specifically for infrastructureassisted vehicular networks. Roads are divided into road segments, and roadside units are used for multi-hop communication. The proposed protocol is unique in that it uses the cellular network to relay control messages to and from the controller with low latency. To achieve a real-time vehicle topology, the concept of edge controller is introduced as the operational backbone of the vehicle grid in the internet of vehicles. Last but not least, a novel mathematical model is estimated to assist the primary controller in finding not only the shortest but also the most durable path. The results demonstrate the proposed protocol's significant performance in terms of availability with minimal routing overhead. Furthermore, we discovered that the edge controller is primarily responsible for reducing network path failure.
+
+Course: Mobile Computing
+
+[Download Report](http://ydelvis.github.io/files/performance-analysis-of-standard-ecc-curves.pdf)
