@@ -1,11 +1,11 @@
 ---
-layout: archive
-title: "projects"
-permalink: /projects/
+permalink: /
+title: "Project Works"
+excerpt: "Project Works"
 author_profile: true
+redirect_from: 
+  - /projects/
 ---
-
-{% include base_path %}
 
 > **Performance Analysis of Standard Elliptic Curves for the Implementation of ECC on Resource-Constrianed IoT Applications**
 > *July, 2022*
