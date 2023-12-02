@@ -26,15 +26,17 @@ Education
 1. **MEng. Computer Science and Technology**
   University of Electronic Science and Technology of China, UESTC [Sept 2021 - Dec 2023]
   Chengdu, Sichuan Province, China
-1. **BSc Telecommunications Engineering**
+
+2. **BSc Telecommunications Engineering**
   Kwame Nkrumah University of Science and Technology (KNUST) [Sept 2016 - Aug 2020]
   Kumasi, Ghana
 
 Professional Experience
 ======
 1. **Software Engineer**
-Orgmento UK Limited [Jul 2022 - Present]
-Accra, Ghana
-1. **Intern, Network Engineer**
-Premium Technologies [Jun 2019 - Aug 2019]
-Accra, Ghana
+  Orgmento UK Limited [Jul 2022 - Present]
+  Accra, Ghana
+
+2. **Intern, Network Engineer**
+  Premium Technologies [Jun 2019 - Aug 2019]
+  Accra, Ghana
