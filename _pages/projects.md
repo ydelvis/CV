@@ -1,10 +1,10 @@
 ---
+layout: archive
+title: "Projects"
 permalink: /projects/
-title: "Project Works"
-excerpt: "Project Works"
 author_profile: true
-redirect_from: 
-  - /projects/
+redirect_from:
+  - /projects
 ---
 
 > **Performance Analysis of Standard Elliptic Curves for the Implementation of ECC on Resource-Constrianed IoT Applications**
